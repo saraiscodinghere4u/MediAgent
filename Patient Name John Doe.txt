@@ -1,0 +1,29 @@
+Patient Name: John Doe  
+Age: 45  
+Date: 2025-05-15  
+Referring Physician: Dr. Jane Smith  
+Department: Cardiology
+
+Clinical Summary:
+The patient presented with chest pain radiating to the left arm, shortness of breath, and dizziness. No previous history of myocardial infarction. Blood pressure on arrival was 150/95 mmHg, heart rate 102 bpm. ECG indicated ST segment elevation in leads II, III, and aVF. Cardiac enzymes (troponin I and CK-MB) were elevated, confirming a diagnosis of inferior wall myocardial infarction.
+
+Treatment Administered:
+- Oxygen therapy
+- Aspirin 325 mg orally
+- Nitroglycerin sublingual
+- Morphine IV for pain management
+- Beta-blocker (Metoprolol 50mg)
+
+Patient was transferred to the cardiac ICU for continuous monitoring and was scheduled for coronary angiography.
+
+Prognosis:
+Stable. Requires further observation and follow-up post-procedure.
+
+Recommendations:
+- Continue cardiac medications
+- Lifestyle modifications (low-sodium diet, moderate exercise)
+- Follow-up in 1 week with primary cardiologist
+
+Signed,  
+Dr. Jane Smith, MD  
+Consultant Cardiologist
